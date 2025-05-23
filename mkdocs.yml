@@ -1,0 +1,66 @@
+site_name: Fabreeko Docs
+site_url: https://docs.eduncan911.com
+copyright: >
+    Copyright &copy; {copyright_year} Fabreeko 
+    - Made with <b><a href="https://squidfunk.github.io/mkdocs-material/">
+    Material for MkDocs</a></b>
+hooks:
+  - hooks/copyright.py
+plugins:
+  - search
+  - tags
+theme:
+  name: material
+  logo: assets/images/fabreeko-f.png
+  favicon: assets/images/favicon.png
+  custom_dir: overrides
+  palette: 
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: grey
+      accent: blue grey
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: grey
+      accent: blue grey
+  features:
+    - announce.dismiss
+    # - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.prune
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+extra_css:
+  - assets/stylesheets/extra.css
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/Fabreeko/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/Fabreeko_Hector
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/fabreeko
+    - icon: fontawesome/brands/github
+      link: https://github.com/fabreeko
+
+# icon search here: 
+# https://squidfunk.github.io/mkdocs-material/reference/icons-emojis
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
