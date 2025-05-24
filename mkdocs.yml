@@ -6,6 +6,8 @@ copyright: >
 hooks:
   - hooks/copyright.py
 plugins:
+  - search
+  - tags
   - minify:
       minify_html: true
       minify_js: true
@@ -13,8 +15,10 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
-  - search
-  - tags
+  - git-committers:
+      repository: fabreeko/fabreeko.github.io
+      branch: main
+  - git-revision-date-localized
 theme:
   name: material
   logo: assets/images/fabreeko-f.png
