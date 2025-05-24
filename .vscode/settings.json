@@ -15,6 +15,7 @@
     "autohide",
     "Fabreeko",
     "fontawesome",
+    "mkdocs",
     "pymdownx",
     "Roboto"
   ]

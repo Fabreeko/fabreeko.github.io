@@ -1,0 +1,42 @@
+site_url: https://docs.fabreeko.com
+logo_url: https://www.fabreeko.com/cdn/shop/files/Fabreeko_Logo_ecf1536e-3074-4a0e-9306-87ca89f1abbd_320x.png?v=1717977047
+
+backend:
+  name: github
+  repo: fabreeko/docs.fabreeko.com
+  branch: main
+  squash_merges: true
+
+media_folder: "docs/assets/uploads"
+public_folder: "/assets/uploads"
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "doc"
+    label: "Doc"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Sub-Title", name: "subtitle", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - label: "Material - Icon"
+        hint: "[Search for icon names here.](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/)"
+        name: "icon"
+        widget: "string"
+        required: false
+      - label: "Material - Status"
+        hint: "Adds a compliant 'new' or 'deprecated' page icon in menus."
+        name: "status"
+        widget: "select"
+        required: false
+        options: 
+          - { label: "(none)", value: "" }
+          - { label: "New", value: "new" }
+          - { label: "Deprecated", value: "deprecated" }
+        
+      
+
