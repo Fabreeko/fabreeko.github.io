@@ -2,13 +2,15 @@
 
 This repo contains the code that builds the docs site.  It is designed to be built by, and hosted at GitHub Pages.  
 
-**Do you belong here?** You would only view this repository if you plan on changing the overall setup and/or admin configurations.  
+## **Do you belong here?** 
 
-Content creators should visit and log into the admin site instead at:
+You would only view this repository if you plan on changing the overall setup and/or admin configurations.  
+
+Otherwise, content creators should visit and log into the admin site instead at:
 
 https://docs.fabreeko.com/admin
 
-## Overview
+## Basic Overview
 
 The docs website uses the following technologies:
 
