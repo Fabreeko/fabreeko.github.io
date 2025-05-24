@@ -1,9 +1,8 @@
 site_name: Fabreeko Docs
 site_url: https://docs.eduncan911.com
 copyright: >
-    Copyright &copy; {copyright_year} Fabreeko 
-    - Made with <b><a href="https://squidfunk.github.io/mkdocs-material/">
-    Material for MkDocs</a></b>
+    Copyright &copy; {copyright_year} 
+    <b><a target=_blank href="https://www.fabreeko.com">Fabreeko</a></b>
 hooks:
   - hooks/copyright.py
 plugins:
