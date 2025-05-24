@@ -1,4 +1,4 @@
-# :material-printer-3d: Welcome to Fabreeko Docs!
+# Welcome to Fabreeko Docs!
 
 Welcome to the official documentation hub for <a target="_blank" href="//www.fabreeko.com">**Fabreeko**</a>. We aim to be a place for 3D printer enthusiasts to find parts and printers in a curated selection dedicated to supporting the community. We pride ourselves on our deep knowledge of all types of 3D printers and parts, as well as our willingness to help you find exactly what you're looking for!
 
