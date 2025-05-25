@@ -4,9 +4,16 @@ Welcome to the official documentation hub for <a target="_blank" href="//www.fab
 
 ---
 
+!!! bug "Work In Progress"
+
+    You are reading this before the site has launched and missing work.  This notification will be removed when ready.  
+
+!!! tip "Looking for a specific product?"
+    Use the search bar at the top of this page or the menu to the left.
+
 ## :material-lightbulb-on-outline: What You'll Find Here
 
-This site is designed to help makers, modders, and professionals get the most out of their Fabreeko gear. You'll find:
+This site is designed to help makers, modders, and professionals get the most out of their Fabreeko gear. In time, you'll find:
 
 - :material-cog-outline: **Assembly guides** for our DIY kits  
 - :material-wrench-outline: **Installation manuals** for accessories and upgrades  
@@ -20,14 +27,9 @@ This site is designed to help makers, modders, and professionals get the most ou
 
 Ready to build or upgrade your machine?
 
-=== "For Beginners"
-    :material-star-outline: Start with our [Getting Started Guide](getting-started.md)
+:arrow_left: Start by browsing the page list to the left; or, browse our categories below:
 
-=== "For Kit Builders"
-    :material-tools: Head to the [DIY Kit Assembly Guides](kits/index.md)
-
-=== "For Modders"
-    :material-hammer-wrench: Check out [Mods & Accessories](mods/index.md)
+- [Fabreeko Edge to Edge Heaters](fabreeko/edge-2-edge-heaters.md)
 
 ---
 
@@ -35,14 +37,8 @@ Ready to build or upgrade your machine?
 
 Have questions or want to share your build? You're not alone. Join our active community:
 
-- [Fabreeko Discord](https://discord.gg/YOUR_INVITE_CODE)
-- [Reddit /r/Fabreeko](https://www.reddit.com/r/Fabreeko)
-- [Support Page](https://www.fabreeko.com/pages/contact)
-
----
-
-!!! tip "Looking for a specific product?"
-    Use the search bar at the top of this page or visit our [Product Index](products.md) to jump straight into your hardware.
+- [Fabreeko Discord](https://discord.gg/Fabreeko)
+- or [Contact Us](https://www.fabreeko.com/pages/about-us)
 
 ---
 
