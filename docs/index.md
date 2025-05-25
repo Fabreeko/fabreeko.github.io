@@ -25,11 +25,7 @@ This site is designed to help makers, modders, and professionals get the most ou
 
 ## :material-rocket-launch: Get Started
 
-Ready to build or upgrade your machine?
-
-:arrow_left: Start by browsing the page list to the left; or, browse our categories below:
-
-- [Fabreeko Edge to Edge Heaters](fabreeko/edge-2-edge-heaters.md)
+Ready to build or upgrade your machine?  Start by browsing the menu to the left.
 
 ---
 
