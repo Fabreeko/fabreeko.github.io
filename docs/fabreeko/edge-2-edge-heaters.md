@@ -1,3 +1,11 @@
+---
+title: Fabreeko Edge-to-Edge Heaters
+subtitle: Installation, 120VAC, 240VAC, and Troubleshooting
+description: "Installation, 120VAC, 240VAC, and Troubleshooting"
+icon: ""
+status: new
+---
+
 # Fabreeko Edge to Edge Heaters
 
 Phasellus posuere in sem ut cursus

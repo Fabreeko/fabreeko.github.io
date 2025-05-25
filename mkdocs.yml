@@ -9,6 +9,7 @@ hooks:
 
 plugins:
   - search
+  - social
   - tags
   - minify:
       minify_html: true
