@@ -1,10 +1,12 @@
 site_name: Fabreeko Docs
 site_url: https://fabreeko.github.io
+
 copyright: >
     Copyright &copy; {copyright_year} 
     <b><a target=_blank href="https://www.fabreeko.com">Fabreeko</a></b>
 hooks:
   - hooks/copyright.py
+
 plugins:
   - search
   - tags
@@ -15,10 +17,11 @@ plugins:
       htmlmin_opts:
           remove_comments: true
       cache_safe: true
-  - git-committers:
-      repository: fabreeko/fabreeko.github.io
-      branch: main
   - git-revision-date-localized
+  # - git-committers:
+  #     repository: fabreeko/fabreeko.github.io
+  #     branch: main
+
 theme:
   name: material
   logo: assets/images/fabreeko-f.png
@@ -53,8 +56,10 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+
 extra_css:
   - assets/stylesheets/extra.css
+
 extra:
   generator: false
   social:
