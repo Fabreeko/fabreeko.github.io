@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://fabreeko.github.io/</loc>
+         <lastmod>2025-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabreeko.github.io/fabreeko/edge-2-edge-heaters/</loc>
+         <lastmod>2025-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabreeko.github.io/honeybadger/motor-installation/</loc>
+         <lastmod>2025-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabreeko.github.io/honeybadger/rails-cleaning-lubrication/</loc>
+         <lastmod>2025-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fabreeko.github.io/voron/supplemental-ldo-v24/</loc>
+         <lastmod>2025-05-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
